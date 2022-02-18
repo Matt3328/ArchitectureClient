@@ -1,3 +1,4 @@
+# Group: Tao Xin, Matthieu Pacheco
 # ArchitectureClient
 ## Jeu: chifoumi
 ## gestion de dictionnaire:
